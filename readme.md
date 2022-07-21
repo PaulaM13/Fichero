@@ -5,4 +5,4 @@
 - Nos posicionamos en el directorio correcto.
 - Vemos la lista de directorio (ls)
 - Cambiamos el directorio (cd Desktop/)
-- creamos la carpeta (git init repo01) :wink:
+- Creamos la carpeta (git init repo01) :wink:
