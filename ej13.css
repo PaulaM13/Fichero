@@ -1,0 +1,16 @@
+.Div1{
+outline-color: green;
+outline-style: dotted;
+outline-width: 15px;
+background-color: red;
+width: 200px;
+height: 200px;
+font-size: 35px;
+
+}
+
+.Div1:hover{
+outline-color: black;
+outline-style: dotted;
+outline-width: 8px;
+}
